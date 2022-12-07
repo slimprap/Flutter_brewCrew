@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019648272272",
+    "project_id": "brew-crew-tutorial-4c142",
+    "storage_bucket": "brew-crew-tutorial-4c142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019648272272:android:33b136bf2f275fe0d1b515",
+        "android_client_info": {
+          "package_name": "com.kop.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019648272272-rr9srpondqteit8bcicqdl4npteh9b9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaX6lV9GOxBo2W2xI8ADb6TV0DjT5sxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019648272272-rr9srpondqteit8bcicqdl4npteh9b9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
